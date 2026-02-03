@@ -24,16 +24,6 @@ I’m passionate about building things with code and exploring how **AI & Machin
 
 ---
 
-## 🎨 Fun Animations
-
-### Web Development in action
-![Web Dev GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
-### AI & Machine Learning
-![AI GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=4kanksh&show_icons=true&theme=radical)
