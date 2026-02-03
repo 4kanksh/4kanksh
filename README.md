@@ -1,4 +1,4 @@
-# Hi 👋 I'm Akanksh 
+# Hi 👋 I'm Akanksha  
 
 🎓 Student | 💻 Tech Enthusiast | 🌱 Always Learning  
 
@@ -9,55 +9,49 @@ I’m passionate about building things with code and exploring how **AI & Machin
 ## 🚀 Skills & Technologies
 
 ### 💻 Programming Languages
-- C  
-- Java  
-- Python  
+![C](https://img.shields.io/badge/C-Blue?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Red?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web Development
-- HTML, CSS, JavaScript  
-- Frontend fundamentals  
-- Basic backend concepts  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 AI & Machine Learning
-- Machine Learning basics  
-- Data handling & model training  
-- Python for ML  
+![ML](https://img.shields.io/badge/Machine%20Learning-FCA121?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-Purple?style=for-the-badge)
+
+---
+
+## 🎨 Fun Animations
+
+### Web Development in action
+![Web Dev GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
+### AI & Machine Learning
+![AI GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=4kanksh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4kanksh&layout=compact&theme=radical)
 
 ---
 
 ## 📌 What I'm Currently Working On
 - Improving my **Web Development** skills  
-- Learning **Machine Learning & AI concepts**  
+- Exploring **Machine Learning & AI projects**  
 - Practicing **Git, GitHub & DevOps basics**  
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=4kanksh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4kanksh&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 - GitHub: [https://github.com/4kanksh](https://github.com/4kanksh)
+- LinkedIn: [Your LinkedIn]  
 
 ---
 
 ✨ *“Learning never stops — every line of code makes me better.”*
-
-
-<!--
-**4kanksh/4kanksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
