@@ -1,4 +1,4 @@
-# Hi 👋 I'm Akanksha  
+# Hi 👋 I'm Akanksh  
 
 🎓 Student | 💻 Tech Enthusiast | 🌱 Always Learning  
 
