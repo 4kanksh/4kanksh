@@ -4,6 +4,10 @@
 
 I’m passionate about building things with code and exploring how **AI & Machine Learning** can solve real-world problems. I enjoy both **development** and **problem-solving**.
 
+<p align="center">
+  <img src="donut.svg" alt="Spinning ASCII donut" width="420" />
+</p>
+
 ---
 
 ## 🚀 Skills & Technologies
