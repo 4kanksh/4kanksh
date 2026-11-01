@@ -31,17 +31,7 @@ I’m passionate about building things with code and exploring how **AI & Machin
 
 ---
 
-## 📌 What I'm Currently Working On
-- Improving my **Web Development** skills  
-- Exploring **Machine Learning & AI projects**  
-- Practicing **Git, GitHub & DevOps basics**  
-
----
-
 ## 📫 Connect With Me
 - GitHub: [https://github.com/4kanksh](https://github.com/4kanksh)
-- LinkedIn: [Your LinkedIn]  
 
 ---
-
-✨ *“Learning never stops — every line of code makes me better.”*
