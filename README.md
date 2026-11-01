@@ -23,15 +23,3 @@ I’m passionate about building things with code and exploring how **AI & Machin
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-Purple?style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=4kanksh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4kanksh&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me
-- GitHub: [https://github.com/4kanksh](https://github.com/4kanksh)
-
----
